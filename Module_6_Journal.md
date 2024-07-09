@@ -1,0 +1,5 @@
+# Journal 6
+
+### Reading: Dead Simple Python - Chapters 2 & 4
+
+The readings this week were about python virtual environments and packages.  Packages I am very accustomed to and there is nothing new there. I believe everyone that has written python code has used packages.  I am also familiar with virtual environments but have not used them as much as I should.  I understand their uses and how it is good practice to use them, especially when needing specific versions of packages.  I remember I ran into package dependency issues last semester. I ended up continually pip installing different versions of different packages. The python environment was a mess.  I ended up fixing the problem by starting fresh and installing only the packages I needed in the new environment I was using.  I will sure use virtual environments more in the future to avoid these issues.
