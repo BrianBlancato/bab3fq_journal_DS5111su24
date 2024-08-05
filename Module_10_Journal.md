@@ -1,0 +1,6 @@
+# Journal 10
+### Reading: Snowflake Essentials: Chapter 3, 4, 8, 9, 11, & 12
+
+This week the reading was about the Snowflake platform. I have heard of Snowflake in the past when my work was thinking about moving our data systems to a new platform but I have never seen or used it.  I thought the reading was extremely beneficial. For the Capstone project we are Databricks which is a similar data platform.  The data is all stored and can be easily queried using SQL.  We had a demo in class that I thought went smoothly after reading the textbook.  I also wish my work moved to Snowflake or a similar platform. Currently we just have a Microsoft SQL server that is not easy to manage. I prefer a platform like Snowflake or Databricks, everything goes smoothly which improves efficiency.
+
+The lab this week was the first part of creating a database.  I was easily able to split the data into appropriate tables and answer the questions.  Part 2 will be building the database within Snowflake. I think everything will go smoothly.
