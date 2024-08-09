@@ -1,0 +1,6 @@
+# Journal 3
+### Reading: Modern Python Library: Counting Frequencies, Clean Up Text, Logging to File
+
+The reading this week was short but informative. I learned a few new things with python but I think more content is needed to fully understand.  The logging to file section was all brand new but it only one example of code was provided and it centered around a specific use.  I will most likely seek additional resources to fully understadn logging.
+
+I also attempted to complete Lab 3 even though it is due the 18th.  I was unsuccessful. I attempted to code a few functions and I believe I implemented assert correctly but I still have a few questions.  Since we have another week I will wait to see what is discussed in class and what the readings for Module 4 will be.  Using the python file inside the Makefile I am also unsure of.  I understadn the progression of building off the same project and am excited to get it working but I was a little bit lost. I also believe "badge" was mentioned, I am not sure what the means.  Looking forward to the nexxt module to hopefully clear up some of these questions.
